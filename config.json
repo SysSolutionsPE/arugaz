@@ -1,6 +1,6 @@
 {
   "timeZone": "America/Lima",
-  "language": "en",
+  "language": "es",
   "ownerNumber": ["51945463812", "51966099729"],
   "readStatus": false,
   "readMessage": false,
@@ -9,7 +9,7 @@
     "block": true,
     "ban": false
   },
-  "prefix": "!#.",
+  "prefix": ".",
   "name": "SysSolutions",
   "footer": "SysSolutions",
   "self": true,
