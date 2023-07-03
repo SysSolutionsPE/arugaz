@@ -8,7 +8,7 @@ generator client {
 // u can use other providers like, postgreSQL, mariaDB, mySQL or other, just read prisma docs
 datasource db {
   provider = "mongodb"
-  url      = env("MONGODB_URL")
+  url      = env("mongodb+srv://Dragons:Dragons@cluster0.digkllx.mongodb.net/?retryWrites=true&w=majority")
 }
 
 /// Storing sessions information
